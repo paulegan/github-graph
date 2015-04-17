@@ -21,8 +21,8 @@ open 'http://localhost:8000/index.html?d=testrepo.json'
 
 ## Output
 
-Example for [ionic](https://github.com/driftyco/ionic):
+Example for [NetworkX](https://github.com/networkx/networkx) & [D3](https://github.com/mbostock/d3):
 
-![ionic graph](examples/ionic.png)
+![networkx graph](examples/networkx.png)
 
-Try the interactive version at [index.html](http://rawgit.com/paulegan/github-graph/master/index.html?d=examples/ionic.json).
+Try the interactive version at [index.html](http://rawgit.com/paulegan/github-graph/master/index.html?d=examples/networkx.json).

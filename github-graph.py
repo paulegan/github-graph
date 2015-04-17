@@ -12,8 +12,14 @@ import networkx as nx
 
 
 # From http://colorbrewer2.org/?type=qualitative&scheme=Pastel2&n=6
-COLORMAP = {'JavaScript': '#b3e2cd', 'CSS': '#cbd5e8'}
-
+COLORMAP = {
+    'JavaScript': '#b3e2cd',
+    'Ruby': '#fdcdac',
+    'CSS': '#cbd5e8',
+    'Python': '#f4cae4',
+    'C': '#e6f5c9',
+    'HTML': '#fff2ae',
+}
 
 RepoMeta = namedtuple('RepoMeta', 'full_name size forks_count stargazers_count language')
 

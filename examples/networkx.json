@@ -1,0 +1,1100 @@
+{
+ "directed": false,
+ "multigraph": false,
+ "links": [
+  {
+   "source": 0,
+   "target": 4,
+   "weight": 187,
+   "width": 2.1864951768488745
+  },
+  {
+   "source": 1,
+   "target": 4,
+   "weight": 166,
+   "width": 1.5787781350482315
+  },
+  {
+   "source": 1,
+   "target": 22,
+   "weight": 278,
+   "width": 4.819935691318328
+  },
+  {
+   "source": 2,
+   "target": 4,
+   "weight": 154,
+   "width": 1.2315112540192925
+  },
+  {
+   "source": 3,
+   "target": 4,
+   "weight": 173,
+   "width": 1.7813504823151125
+  },
+  {
+   "source": 3,
+   "target": 22,
+   "weight": 261,
+   "width": 4.327974276527332
+  },
+  {
+   "source": 4,
+   "target": 35,
+   "weight": 177,
+   "width": 1.897106109324759
+  },
+  {
+   "source": 4,
+   "target": 11,
+   "weight": 203,
+   "width": 2.64951768488746
+  },
+  {
+   "source": 4,
+   "target": 37,
+   "weight": 151,
+   "width": 1.144694533762058
+  },
+  {
+   "source": 4,
+   "target": 42,
+   "weight": 250,
+   "width": 4.009646302250804
+  },
+  {
+   "source": 4,
+   "target": 38,
+   "weight": 175,
+   "width": 1.8392282958199355
+  },
+  {
+   "source": 4,
+   "target": 7,
+   "weight": 246,
+   "width": 3.8938906752411575
+  },
+  {
+   "source": 4,
+   "target": 41,
+   "weight": 193,
+   "width": 2.360128617363344
+  },
+  {
+   "source": 4,
+   "target": 23,
+   "weight": 186,
+   "width": 2.157556270096463
+  },
+  {
+   "source": 4,
+   "target": 63,
+   "weight": 270,
+   "width": 4.588424437299036
+  },
+  {
+   "source": 4,
+   "target": 43,
+   "weight": 188,
+   "width": 2.215434083601286
+  },
+  {
+   "source": 4,
+   "target": 13,
+   "weight": 255,
+   "width": 4.154340836012862
+  },
+  {
+   "source": 4,
+   "target": 53,
+   "weight": 180,
+   "width": 1.9839228295819935
+  },
+  {
+   "source": 4,
+   "target": 45,
+   "weight": 208,
+   "width": 2.794212218649518
+  },
+  {
+   "source": 4,
+   "target": 25,
+   "weight": 153,
+   "width": 1.202572347266881
+  },
+  {
+   "source": 4,
+   "target": 55,
+   "weight": 146,
+   "width": 1.0
+  },
+  {
+   "source": 4,
+   "target": 17,
+   "weight": 229,
+   "width": 3.401929260450161
+  },
+  {
+   "source": 4,
+   "target": 18,
+   "weight": 320,
+   "width": 6.035369774919614
+  },
+  {
+   "source": 4,
+   "target": 50,
+   "weight": 183,
+   "width": 2.070739549839228
+  },
+  {
+   "source": 4,
+   "target": 44,
+   "weight": 169,
+   "width": 1.6655948553054662
+  },
+  {
+   "source": 4,
+   "target": 20,
+   "weight": 152,
+   "width": 1.1736334405144695
+  },
+  {
+   "source": 4,
+   "target": 22,
+   "weight": 356,
+   "width": 7.077170418006431
+  },
+  {
+   "source": 4,
+   "target": 10,
+   "weight": 188,
+   "width": 2.215434083601286
+  },
+  {
+   "source": 4,
+   "target": 54,
+   "weight": 225,
+   "width": 3.2861736334405145
+  },
+  {
+   "source": 4,
+   "target": 15,
+   "weight": 147,
+   "width": 1.0289389067524115
+  },
+  {
+   "source": 4,
+   "target": 56,
+   "weight": 159,
+   "width": 1.3762057877813505
+  },
+  {
+   "source": 4,
+   "target": 57,
+   "weight": 169,
+   "width": 1.6655948553054662
+  },
+  {
+   "source": 4,
+   "target": 58,
+   "weight": 172,
+   "width": 1.752411575562701
+  },
+  {
+   "source": 4,
+   "target": 26,
+   "weight": 165,
+   "width": 1.54983922829582
+  },
+  {
+   "source": 4,
+   "target": 47,
+   "weight": 159,
+   "width": 1.3762057877813505
+  },
+  {
+   "source": 4,
+   "target": 28,
+   "weight": 149,
+   "width": 1.0868167202572347
+  },
+  {
+   "source": 4,
+   "target": 29,
+   "weight": 268,
+   "width": 4.530546623794212
+  },
+  {
+   "source": 4,
+   "target": 52,
+   "weight": 206,
+   "width": 2.7363344051446945
+  },
+  {
+   "source": 4,
+   "target": 31,
+   "weight": 288,
+   "width": 5.109324758842444
+  },
+  {
+   "source": 4,
+   "target": 32,
+   "weight": 166,
+   "width": 1.5787781350482315
+  },
+  {
+   "source": 4,
+   "target": 51,
+   "weight": 166,
+   "width": 1.5787781350482315
+  },
+  {
+   "source": 4,
+   "target": 65,
+   "weight": 148,
+   "width": 1.0578778135048232
+  },
+  {
+   "source": 4,
+   "target": 66,
+   "weight": 148,
+   "width": 1.0578778135048232
+  },
+  {
+   "source": 5,
+   "target": 22,
+   "weight": 204,
+   "width": 2.678456591639871
+  },
+  {
+   "source": 6,
+   "target": 22,
+   "weight": 219,
+   "width": 3.112540192926045
+  },
+  {
+   "source": 8,
+   "target": 22,
+   "weight": 189,
+   "width": 2.244372990353698
+  },
+  {
+   "source": 9,
+   "target": 22,
+   "weight": 218,
+   "width": 3.0836012861736335
+  },
+  {
+   "source": 12,
+   "target": 22,
+   "weight": 214,
+   "width": 2.967845659163987
+  },
+  {
+   "source": 14,
+   "target": 22,
+   "weight": 197,
+   "width": 2.47588424437299
+  },
+  {
+   "source": 16,
+   "target": 22,
+   "weight": 231,
+   "width": 3.459807073954984
+  },
+  {
+   "source": 18,
+   "target": 22,
+   "weight": 457,
+   "width": 10.0
+  },
+  {
+   "source": 19,
+   "target": 22,
+   "weight": 203,
+   "width": 2.64951768488746
+  },
+  {
+   "source": 21,
+   "target": 22,
+   "weight": 188,
+   "width": 2.215434083601286
+  },
+  {
+   "source": 22,
+   "target": 35,
+   "weight": 221,
+   "width": 3.170418006430868
+  },
+  {
+   "source": 22,
+   "target": 36,
+   "weight": 279,
+   "width": 4.84887459807074
+  },
+  {
+   "source": 22,
+   "target": 65,
+   "weight": 276,
+   "width": 4.762057877813504
+  },
+  {
+   "source": 22,
+   "target": 37,
+   "weight": 235,
+   "width": 3.5755627009646305
+  },
+  {
+   "source": 22,
+   "target": 38,
+   "weight": 282,
+   "width": 4.935691318327974
+  },
+  {
+   "source": 22,
+   "target": 39,
+   "weight": 198,
+   "width": 2.504823151125402
+  },
+  {
+   "source": 22,
+   "target": 52,
+   "weight": 336,
+   "width": 6.498392282958199
+  },
+  {
+   "source": 22,
+   "target": 23,
+   "weight": 204,
+   "width": 2.678456591639871
+  },
+  {
+   "source": 22,
+   "target": 61,
+   "weight": 225,
+   "width": 3.2861736334405145
+  },
+  {
+   "source": 22,
+   "target": 47,
+   "weight": 274,
+   "width": 4.704180064308682
+  },
+  {
+   "source": 22,
+   "target": 33,
+   "weight": 202,
+   "width": 2.620578778135048
+  },
+  {
+   "source": 22,
+   "target": 46,
+   "weight": 191,
+   "width": 2.302250803858521
+  },
+  {
+   "source": 22,
+   "target": 48,
+   "weight": 206,
+   "width": 2.7363344051446945
+  },
+  {
+   "source": 22,
+   "target": 49,
+   "weight": 243,
+   "width": 3.807073954983923
+  },
+  {
+   "source": 22,
+   "target": 50,
+   "weight": 208,
+   "width": 2.794212218649518
+  },
+  {
+   "source": 22,
+   "target": 60,
+   "weight": 205,
+   "width": 2.707395498392283
+  },
+  {
+   "source": 22,
+   "target": 41,
+   "weight": 186,
+   "width": 2.157556270096463
+  },
+  {
+   "source": 22,
+   "target": 53,
+   "weight": 292,
+   "width": 5.22508038585209
+  },
+  {
+   "source": 22,
+   "target": 54,
+   "weight": 224,
+   "width": 3.257234726688103
+  },
+  {
+   "source": 22,
+   "target": 24,
+   "weight": 269,
+   "width": 4.559485530546624
+  },
+  {
+   "source": 22,
+   "target": 25,
+   "weight": 209,
+   "width": 2.823151125401929
+  },
+  {
+   "source": 22,
+   "target": 59,
+   "weight": 233,
+   "width": 3.517684887459807
+  },
+  {
+   "source": 22,
+   "target": 27,
+   "weight": 218,
+   "width": 3.0836012861736335
+  },
+  {
+   "source": 22,
+   "target": 40,
+   "weight": 198,
+   "width": 2.504823151125402
+  },
+  {
+   "source": 22,
+   "target": 30,
+   "weight": 238,
+   "width": 3.662379421221865
+  },
+  {
+   "source": 22,
+   "target": 34,
+   "weight": 191,
+   "width": 2.302250803858521
+  },
+  {
+   "source": 22,
+   "target": 64,
+   "weight": 291,
+   "width": 5.196141479099678
+  },
+  {
+   "source": 22,
+   "target": 62,
+   "weight": 207,
+   "width": 2.765273311897106
+  }
+ ],
+ "graph": [],
+ "nodes": [
+  {
+   "id": 4164482,
+   "language": "Python",
+   "full_name": "django/django",
+   "forks_count": 5441,
+   "stargazers_count": 13783,
+   "size": 717.7157244220646,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 206084,
+   "language": "Ruby",
+   "full_name": "Homebrew/homebrew",
+   "forks_count": 11248,
+   "stargazers_count": 22437,
+   "size": 1146.8833447775996,
+   "color": "#fdcdac"
+  },
+  {
+   "id": 993110,
+   "language": "HTML",
+   "full_name": "getpelican/pelican",
+   "forks_count": 1046,
+   "stargazers_count": 4517,
+   "size": 258.1979095140001,
+   "color": "#fff2ae"
+  },
+  {
+   "id": 3470471,
+   "language": "HTML",
+   "full_name": "FortAwesome/Font-Awesome",
+   "forks_count": 4922,
+   "stargazers_count": 32092,
+   "size": 1625.6923781185626,
+   "color": "#fff2ae"
+  },
+  {
+   "id": 890377,
+   "language": "Python",
+   "full_name": "networkx/networkx",
+   "stargazers_count": 1327,
+   "forks_count": 420,
+   "size": 100.0,
+   "color": "#f4cae4",
+   "root": true
+  },
+  {
+   "id": 812393,
+   "language": "Ruby",
+   "full_name": "intridea/grape",
+   "forks_count": 667,
+   "stargazers_count": 6004,
+   "size": 331.9409475852598,
+   "color": "#fdcdac"
+  },
+  {
+   "id": 2573058,
+   "language": "CSS",
+   "full_name": "zurb/foundation",
+   "forks_count": 4259,
+   "stargazers_count": 19835,
+   "size": 1017.8454261081864,
+   "color": "#cbd5e8"
+  },
+  {
+   "id": 858127,
+   "language": "Python",
+   "full_name": "pydata/pandas",
+   "forks_count": 1558,
+   "stargazers_count": 4265,
+   "size": 245.7007705806058,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 2616595,
+   "language": "JavaScript",
+   "full_name": "shutterstock/rickshaw",
+   "forks_count": 830,
+   "stargazers_count": 5171,
+   "size": 290.6309605554284,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 275604,
+   "language": "Ruby",
+   "full_name": "resque/resque",
+   "forks_count": 1204,
+   "stargazers_count": 6479,
+   "size": 355.4970626382849,
+   "color": "#fdcdac"
+  },
+  {
+   "id": 301742,
+   "language": "Python",
+   "full_name": "tornadoweb/tornado",
+   "forks_count": 2544,
+   "stargazers_count": 8879,
+   "size": 474.517433432517,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 21289110,
+   "language": "Python",
+   "full_name": "vinta/awesome-python",
+   "forks_count": 1669,
+   "stargazers_count": 10845,
+   "size": 572.0149538414587,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 1207300,
+   "language": "JavaScript",
+   "full_name": "etsy/statsd",
+   "forks_count": 1038,
+   "stargazers_count": 7365,
+   "size": 399.43541618982226,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 596892,
+   "language": "Python",
+   "full_name": "mitsuhiko/flask",
+   "forks_count": 3866,
+   "stargazers_count": 13450,
+   "size": 701.2016479743648,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 2162719,
+   "language": "Shell",
+   "full_name": "xdissent/ievms",
+   "forks_count": 384,
+   "stargazers_count": 8246,
+   "size": 443.1258106355383,
+   "color": "#ffffff"
+  },
+  {
+   "id": 3687489,
+   "language": "JavaScript",
+   "full_name": "jacomyal/sigma.js",
+   "forks_count": 661,
+   "stargazers_count": 4574,
+   "size": 261.02464332036317,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 308770,
+   "language": "Ruby",
+   "full_name": "plataformatec/devise",
+   "forks_count": 2656,
+   "stargazers_count": 12657,
+   "size": 661.8753337911039,
+   "color": "#fdcdac"
+  },
+  {
+   "id": 7607075,
+   "language": "Python",
+   "full_name": "CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+   "forks_count": 1725,
+   "stargazers_count": 7550,
+   "size": 408.60990310521095,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 2126244,
+   "language": "CSS",
+   "full_name": "twbs/bootstrap",
+   "forks_count": 31385,
+   "stargazers_count": 79969,
+   "size": 4000.0,
+   "color": "#cbd5e8"
+  },
+  {
+   "id": 3598373,
+   "language": "JavaScript",
+   "full_name": "square/crossfilter",
+   "forks_count": 985,
+   "stargazers_count": 4471,
+   "size": 255.91668574044402,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 10270250,
+   "language": "JavaScript",
+   "full_name": "facebook/react",
+   "forks_count": 2790,
+   "stargazers_count": 20258,
+   "size": 1038.8227664606698,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 5710341,
+   "language": "JavaScript",
+   "full_name": "bower/bower",
+   "forks_count": 1480,
+   "stargazers_count": 12094,
+   "size": 633.9551384756238,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 943149,
+   "language": "JavaScript",
+   "full_name": "mbostock/d3",
+   "forks_count": 9268,
+   "stargazers_count": 36638,
+   "size": 1851.1367971313039,
+   "color": "#b3e2cd",
+   "root": true
+  },
+  {
+   "id": 460078,
+   "language": "JavaScript",
+   "full_name": "angular/angular.js",
+   "forks_count": 15573,
+   "stargazers_count": 37432,
+   "size": 1890.512703135729,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 1631024,
+   "language": "HTML",
+   "full_name": "harvesthq/chosen",
+   "forks_count": 3328,
+   "stargazers_count": 17382,
+   "size": 896.1966887922484,
+   "color": "#fff2ae"
+  },
+  {
+   "id": 1200050,
+   "language": "C++",
+   "full_name": "ariya/phantomjs",
+   "forks_count": 2546,
+   "stargazers_count": 13607,
+   "size": 708.9875638971542,
+   "color": "#ffffff"
+  },
+  {
+   "id": 3638964,
+   "language": "Python",
+   "full_name": "ansible/ansible",
+   "forks_count": 3152,
+   "stargazers_count": 10489,
+   "size": 554.360265506981,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 441269,
+   "language": "CoffeeScript",
+   "full_name": "jashkenas/coffeescript",
+   "forks_count": 1480,
+   "stargazers_count": 11070,
+   "size": 583.173113603418,
+   "color": "#ffffff"
+  },
+  {
+   "id": 1696822,
+   "language": "Python",
+   "full_name": "clips/pattern",
+   "forks_count": 431,
+   "stargazers_count": 2997,
+   "size": 182.81834134431983,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 13491895,
+   "language": null,
+   "full_name": "vhf/free-programming-books",
+   "forks_count": 8471,
+   "stargazers_count": 38268,
+   "size": 1931.9714656290532,
+   "color": "#ffffff"
+  },
+  {
+   "id": 349241,
+   "language": "JavaScript",
+   "full_name": "jashkenas/underscore",
+   "forks_count": 3227,
+   "stargazers_count": 14201,
+   "size": 738.4451056687267,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 1362490,
+   "language": "Python",
+   "full_name": "kennethreitz/requests",
+   "forks_count": 2214,
+   "stargazers_count": 13403,
+   "size": 698.8708323796445,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 2325298,
+   "language": "C",
+   "full_name": "torvalds/linux",
+   "forks_count": 8484,
+   "stargazers_count": 21367,
+   "size": 1093.820096131838,
+   "color": "#e6f5c9"
+  },
+  {
+   "id": 481366,
+   "language": "Shell",
+   "full_name": "nvie/gitflow",
+   "forks_count": 1255,
+   "stargazers_count": 11177,
+   "size": 588.4794384679942,
+   "color": "#ffffff"
+  },
+  {
+   "id": 129791,
+   "language": "Ruby",
+   "full_name": "javan/whenever",
+   "forks_count": 481,
+   "stargazers_count": 5390,
+   "size": 301.4915693904021,
+   "color": "#fdcdac"
+  },
+  {
+   "id": 291137,
+   "language": "Shell",
+   "full_name": "robbyrussell/oh-my-zsh",
+   "forks_count": 7261,
+   "stargazers_count": 23079,
+   "size": 1178.721293965057,
+   "color": "#ffffff"
+  },
+  {
+   "id": 8514,
+   "language": "Ruby",
+   "full_name": "rails/rails",
+   "forks_count": 10101,
+   "stargazers_count": 25681,
+   "size": 1307.7592126344703,
+   "color": "#fdcdac"
+  },
+  {
+   "id": 3214406,
+   "language": "JavaScript",
+   "full_name": "meteor/meteor",
+   "forks_count": 2735,
+   "stargazers_count": 24199,
+   "size": 1234.264133669032,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 576201,
+   "language": "JavaScript",
+   "full_name": "mrdoob/three.js",
+   "forks_count": 5610,
+   "stargazers_count": 19095,
+   "size": 981.1474784466316,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 2935735,
+   "language": "JavaScript",
+   "full_name": "adobe/brackets",
+   "forks_count": 4492,
+   "stargazers_count": 21735,
+   "size": 1112.069886320287,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 2500088,
+   "language": "Ruby",
+   "full_name": "gitlabhq/gitlabhq",
+   "forks_count": 4067,
+   "stargazers_count": 15290,
+   "size": 792.4505989166095,
+   "color": "#fdcdac"
+  },
+  {
+   "id": 1861458,
+   "language": "JavaScript",
+   "full_name": "hakimel/reveal.js",
+   "forks_count": 6219,
+   "stargazers_count": 20615,
+   "size": 1056.527046616312,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 843222,
+   "language": "Python",
+   "full_name": "scikit-learn/scikit-learn",
+   "forks_count": 3355,
+   "stargazers_count": 5607,
+   "size": 312.2529945830472,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 1481305,
+   "language": "Shell",
+   "full_name": "kennethreitz/python-guide",
+   "forks_count": 2157,
+   "stargazers_count": 6713,
+   "size": 367.1015487907225,
+   "color": "#ffffff"
+  },
+  {
+   "id": 3834332,
+   "language": "CoffeeScript",
+   "full_name": "bokeh/bokeh",
+   "forks_count": 412,
+   "stargazers_count": 2603,
+   "size": 163.27916380560006,
+   "color": "#ffffff"
+  },
+  {
+   "id": 529502,
+   "language": "Python",
+   "full_name": "scrapy/scrapy",
+   "forks_count": 2328,
+   "stargazers_count": 8251,
+   "size": 443.3737697413596,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 2404027,
+   "language": "Java",
+   "full_name": "nathanmarz/storm",
+   "forks_count": 1723,
+   "stargazers_count": 8570,
+   "size": 459.1935606927596,
+   "color": "#ffffff"
+  },
+  {
+   "id": 65252,
+   "language": "Ruby",
+   "full_name": "jekyll/jekyll",
+   "forks_count": 3985,
+   "stargazers_count": 19356,
+   "size": 994.0909437705043,
+   "color": "#fdcdac"
+  },
+  {
+   "id": 1801829,
+   "language": "JavaScript",
+   "full_name": "emberjs/ember.js",
+   "forks_count": 2858,
+   "stargazers_count": 13381,
+   "size": 697.7798123140307,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 237159,
+   "language": "JavaScript",
+   "full_name": "strongloop/express",
+   "forks_count": 3706,
+   "stargazers_count": 18371,
+   "size": 945.2429999237049,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 3544424,
+   "language": "Python",
+   "full_name": "jakubroztocil/httpie",
+   "forks_count": 831,
+   "stargazers_count": 14402,
+   "size": 748.4130617227436,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 15204860,
+   "language": null,
+   "full_name": "papers-we-love/papers-we-love",
+   "forks_count": 1253,
+   "stargazers_count": 12699,
+   "size": 663.9581902800031,
+   "color": "#ffffff"
+  },
+  {
+   "id": 211666,
+   "language": "JavaScript",
+   "full_name": "joyent/node",
+   "forks_count": 7971,
+   "stargazers_count": 35704,
+   "size": 1804.818036163882,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 3065454,
+   "language": "JavaScript",
+   "full_name": "bartaz/impress.js",
+   "forks_count": 5185,
+   "stargazers_count": 23798,
+   "size": 1214.3778133821622,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 7691631,
+   "language": "Go",
+   "full_name": "docker/docker",
+   "forks_count": 4746,
+   "stargazers_count": 20805,
+   "size": 1065.9494926375219,
+   "color": "#ffffff"
+  },
+  {
+   "id": 873328,
+   "language": "Python",
+   "full_name": "getsentry/sentry",
+   "forks_count": 796,
+   "stargazers_count": 6704,
+   "size": 366.65522240024416,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 1062897,
+   "language": null,
+   "full_name": "github/gitignore",
+   "forks_count": 8685,
+   "stargazers_count": 23728,
+   "size": 1210.9063859006637,
+   "color": "#ffffff"
+  },
+  {
+   "id": 156018,
+   "language": "C",
+   "full_name": "antirez/redis",
+   "forks_count": 4184,
+   "stargazers_count": 12825,
+   "size": 670.2067597467003,
+   "color": "#e6f5c9"
+  },
+  {
+   "id": 1644196,
+   "language": "Julia",
+   "full_name": "JuliaLang/julia",
+   "forks_count": 1126,
+   "stargazers_count": 5358,
+   "size": 299.9046311131457,
+   "color": "#ffffff"
+  },
+  {
+   "id": 1413492,
+   "language": "JavaScript",
+   "full_name": "defunkt/jquery-pjax",
+   "forks_count": 1275,
+   "stargazers_count": 11086,
+   "size": 583.9665827420463,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 7569578,
+   "language": "Ruby",
+   "full_name": "discourse/discourse",
+   "forks_count": 3758,
+   "stargazers_count": 14095,
+   "size": 733.1883726253147,
+   "color": "#fdcdac"
+  },
+  {
+   "id": 1424470,
+   "language": "JavaScript",
+   "full_name": "moment/moment",
+   "forks_count": 2246,
+   "stargazers_count": 20452,
+   "size": 1048.443579766537,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 5101823,
+   "language": "JavaScript",
+   "full_name": "Shopify/dashing",
+   "forks_count": 834,
+   "stargazers_count": 8394,
+   "size": 450.4654001678492,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 658518,
+   "language": "Python",
+   "full_name": "ipython/ipython",
+   "forks_count": 1856,
+   "stargazers_count": 6179,
+   "size": 340.6195162890059,
+   "color": "#f4cae4"
+  },
+  {
+   "id": 952189,
+   "language": "JavaScript",
+   "full_name": "jashkenas/backbone",
+   "forks_count": 4788,
+   "stargazers_count": 21398,
+   "size": 1095.35744258793,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 486550,
+   "language": "JavaScript",
+   "full_name": "h5bp/html5-boilerplate",
+   "forks_count": 7594,
+   "stargazers_count": 29460,
+   "size": 1495.1667048142215,
+   "color": "#b3e2cd"
+  },
+  {
+   "id": 507775,
+   "language": "Java",
+   "full_name": "elastic/elasticsearch",
+   "forks_count": 3372,
+   "stargazers_count": 10778,
+   "size": 568.6923018234531,
+   "color": "#ffffff"
+  }
+ ]
+}
